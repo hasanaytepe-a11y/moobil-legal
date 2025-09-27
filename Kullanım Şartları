@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Kullanım Şartları</title>
+</head>
+<body>
+  <h1>Kullanım Şartları</h1>
+  <p>Bu kullanım şartları, Moobil uygulamasını kullanırken uyulması gereken kuralları açıklamaktadır.</p>
+
+  <h2>1. Hesap Kullanımı</h2>
+  <ul>
+    <li>Kullanıcılar kendi hesaplarından sorumludur.</li>
+    <li>Hesap bilgilerinizi başkalarıyla paylaşmayınız.</li>
+  </ul>
+
+  <h2>2. Veri Girişi</h2>
+  <ul>
+    <li>Uygulamaya girdiğiniz tüm sürü ve hayvan verileri size aittir.</li>
+    <li>Yasadışı veya yanlış bilgi girmek yasaktır.</li>
+  </ul>
+
+  <h2>3. Abonelikler ve Ödemeler</h2>
+  <ul>
+    <li>Bazı özellikler ücretli abonelik gerektirebilir.</li>
+    <li>Ödeme ve abonelik yönetimi App Store aracılığıyla yapılır.</li>
+    <li>“Satın alımları geri yükle” özelliği kullanıcıların önceki ödemelerini tekrar aktif eder.</li>
+  </ul>
+
+  <h2>4. Sorumluluk Reddi</h2>
+  <p>Uygulama, kullanıcıların girdiği verilerin doğruluğundan sorumlu değildir. Moobil sadece kayıt ve takip kolaylığı sağlar.</p>
+
+  <h2>5. Değişiklikler</h2>
+  <p>Bu şartlar zaman zaman güncellenebilir. Kullanıcılar güncellemelerden haberdar edilecektir.</p>
+
+  <h2>6. İletişim</h2>
+  <p>Herhangi bir sorunuz olursa bizimle iletişime geçebilirsiniz: <strong>hasanaytepe@gmail.com</strong></p>
+</body>
+</html>
