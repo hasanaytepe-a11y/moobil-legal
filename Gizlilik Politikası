@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Gizlilik Politikası</title>
+</head>
+<body>
+  <h1>Gizlilik Politikası</h1>
+  <p>Bu gizlilik politikası, Moobil uygulamasını kullanan kişilerin bilgilerini nasıl topladığımızı, kullandığımızı ve koruduğumuzu açıklamaktadır.</p>
+
+  <h2>1. Toplanan Bilgiler</h2>
+  <ul>
+    <li>Kullanıcıların e-posta adresleri (kayıt ve giriş için)</li>
+    <li>Sürü ve hayvan bilgileri (kullanıcıların kendi girdiği veriler)</li>
+    <li>Cihaz bilgileri (hata raporları ve uygulama performansı için)</li>
+  </ul>
+
+  <h2>2. Bilgilerin Kullanımı</h2>
+  <ul>
+    <li>Kullanıcı hesabınızı oluşturmak ve giriş yapmanızı sağlamak</li>
+    <li>Uygulama içi verilerinizi (sürü, hayvan, kayıtlar) saklamak</li>
+    <li>Hizmet kalitesini artırmak ve hataları gidermek</li>
+  </ul>
+
+  <h2>3. Üçüncü Taraf Hizmetler</h2>
+  <p>Uygulamada aşağıdaki hizmetler kullanılmaktadır:</p>
+  <ul>
+    <li>Firebase Authentication (Google ve Apple ile giriş için)</li>
+    <li>Firebase Firestore (veri saklama için)</li>
+    <li>RevenueCat (abonelik ve satın alma işlemleri için)</li>
+  </ul>
+
+  <h2>4. Verilerin Saklanması</h2>
+  <p>Kullanıcı verileri Firebase altyapısında güvenli bir şekilde saklanmaktadır.</p>
+
+  <h2>5. Kullanıcı Hakları</h2>
+  <p>Kullanıcılar istedikleri zaman hesaplarını silebilir ve tüm verileri kalıcı olarak kaldırılabilir.</p>
+
+  <h2>6. İletişim</h2>
+  <p>Sorularınız için bizimle iletişime geçebilirsiniz: <strong>hasanaytepe@gmail.com</strong></p>
+</body>
+</html>
